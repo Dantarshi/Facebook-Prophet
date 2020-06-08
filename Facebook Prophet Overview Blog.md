@@ -28,7 +28,7 @@ h(t) = holidays effects.
 
 $\epsilon$ t = error term that accounts for unusual changes that are not reflected by the model.
 
-### Steps in Using Prophet
+### Steps in Using Prophet.
 
 1. Install all required packages
 2. immport pandas, from fbprophet import prophet
