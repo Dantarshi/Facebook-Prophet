@@ -39,7 +39,7 @@ $\epsilon$ t = error term that accounts for unusual changes that are not reflect
 
 
 
-### Let's do the practicals
+### Let's do the practicals.
 
 
 ```python
