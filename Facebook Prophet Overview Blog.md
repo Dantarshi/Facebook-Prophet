@@ -24,7 +24,7 @@ f(t) = Piecewise linear or logistic growth curve for non-periodic changes in tim
 
 s(t) = Seasonal periodic changes
 
-h(t) = holidays effects
+h(t) = holidays effects.
 
 $\epsilon$ t = error term that accounts for unusual changes that are not reflected by the model.
 
