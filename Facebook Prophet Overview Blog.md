@@ -20,7 +20,7 @@ and are combined mathematically as:
 
   y(t) = f(t) + s(t) + h(t) + $\epsilon$ t 
 
-f(t) = Piecewise linear or logistic growth curve for non-periodic changes in time series
+f(t) = Piecewise linear or logistic growth curve for non-periodic changes in time series.
 
 s(t) = Seasonal periodic changes.
 
