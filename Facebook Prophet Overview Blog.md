@@ -22,7 +22,7 @@ and are combined mathematically as:
 
 f(t) = Piecewise linear or logistic growth curve for non-periodic changes in time series
 
-s(t) = Seasonal periodic changes
+s(t) = Seasonal periodic changes.
 
 h(t) = holidays effects.
 
