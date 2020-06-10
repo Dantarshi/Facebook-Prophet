@@ -10,7 +10,7 @@ Prophet works best for time series analysis, it is built in Stan, which is a pro
 it is also robust to missining values and handles outliers pretty well.
 it provides room for domain knowledge to excel. 
 
-### Prophet Forecasting Model
+### Prophet Forecasting Model.
 
 Generally, prophet decomposes a time series model in 3 moain components:
 Trend
