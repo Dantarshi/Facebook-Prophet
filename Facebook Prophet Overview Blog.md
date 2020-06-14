@@ -15,7 +15,7 @@ it provides room for domain knowledge to excel.
 Generally, prophet decomposes a time series model in 3 moain components:
 Trend.
 Seasonality.
-Holidays
+Holidays.
 and are combined mathematically as:
 
   y(t) = f(t) + s(t) + h(t) + $\epsilon$ t 
