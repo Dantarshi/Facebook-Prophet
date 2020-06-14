@@ -13,7 +13,7 @@ it provides room for domain knowledge to excel.
 ### Prophet Forecasting Model.
 
 Generally, prophet decomposes a time series model in 3 moain components:
-Trend
+Trend.
 Seasonality
 Holidays
 and are combined mathematically as:
