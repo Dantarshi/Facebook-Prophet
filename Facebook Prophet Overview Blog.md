@@ -33,7 +33,7 @@ $\epsilon$ t = error term that accounts for unusual changes that are not reflect
 1. Install all required packages.
 2. immport pandas, from fbprophet import prophet
 3. get data from any source and convert to data frame using pandas
-4. rename date column to 'ds' and convert it to datetime stamp and 'y' for values
+4. rename date column to 'ds' and convert it to datetime stamp and 'y' for values.
 5. instantiate prophet, fit the model and make your forecast.
 
 
