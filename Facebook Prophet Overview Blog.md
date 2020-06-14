@@ -14,7 +14,7 @@ it provides room for domain knowledge to excel.
 
 Generally, prophet decomposes a time series model in 3 moain components:
 Trend.
-Seasonality
+Seasonality.
 Holidays
 and are combined mathematically as:
 
