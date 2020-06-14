@@ -1,4 +1,4 @@
-# Facebook Prophet Overview with Python
+# Facebook Prophet Overview with Python.
 
 Forecasting has always been a challenging task. Trying to predict what the future will look like is hard however, it is very important for businesses to have an idea about what to expect. Knowing what to expect makes decision making a lot easier and creates sought of comfort and a sense of confidence.
 
