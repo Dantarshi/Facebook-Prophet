@@ -12,7 +12,7 @@ it provides room for domain knowledge to excel.
 
 ### Prophet Forecasting Model.
 
-Generally, prophet decomposes a time series model in 3 moain components:
+Generally, Prophet decomposes a time series model in 3 moain components:
 Trend.
 Seasonality.
 Holidays.
